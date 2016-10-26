@@ -38,7 +38,7 @@ fecund = TRUE
      # Fecundity text depending on the input value above (can change this line if you like)
      if(fecund == TRUE){fecund_unit='billion eggs'} else {fecund_unit = 'mt'}
   
-# number of independent assessment models to include in the document
+# number of independent assessment models to include in the document (handles up to 3)
 n_models = 1
   
   
