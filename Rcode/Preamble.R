@@ -24,8 +24,8 @@ load("./r4ss/SS_output.RData")
 # ============================================================================= 
 
 # Species, common and scientific
-spp = "China rockfish"
-spp.sci = "Sebastes nebulosus"
+spp = "Pacific Cod"
+spp.sci = "Gaddus Macrocephalus"
   
 # minimum vulnerable age class
 min_age = "1+"
